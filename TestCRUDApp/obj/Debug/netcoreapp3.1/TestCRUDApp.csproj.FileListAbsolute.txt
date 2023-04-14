@@ -1,0 +1,69 @@
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.exe
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.deps.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.runtimeconfig.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.pdb
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.Form1.resources
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.csproj.GenerateResource.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.pdb
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.csproj.CopyComplete
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.exe
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.deps.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.runtimeconfig.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.runtimeconfig.dev.json
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.pdb
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.Form1.resources
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.csproj.GenerateResource.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.csproj.CopyComplete
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.dll
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.pdb
+C:\Users\Decagon\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.exe
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.deps.json
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.runtimeconfig.json
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.runtimeconfig.dev.json
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.dll
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\TestCRUDApp.pdb
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.Form1.resources
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.csproj.CopyComplete
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.dll
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.pdb
+C:\Users\HP\Desktop\github\Weekly Tasks\Week V TestCRUDApp\TestCRUDApp\obj\Debug\netcoreapp3.1\TestCRUDApp.genruntimeconfig.cache
